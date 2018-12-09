@@ -26,4 +26,4 @@ e.g. `mnist_784 train train-labels-idx1-ubyte train-images-idx3-ubyte train.arff
 
 **PhD Yuanyuan Wei** ([aywi](https://github.com/aywi) @ github.com) for his work on a Java converter, which was used as a base for this converter
 
-**Josef Steppan** for the image at the top of this README
+**Josef Steppan** ([j05s](https://github.com/j05t) @ github.com) for the image at the top of this README
