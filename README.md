@@ -25,6 +25,8 @@ I'll provide here both the dataset and the converter, so you can choose either t
   `mnist_784 <dataset name> <dataset labels> <dataset images> <output-file-name>`
 
   e.g. `mnist_784 train train-labels-idx1-ubyte train-images-idx3-ubyte train.arff`
+  
+Tested on Ubuntu 16.04 and Windows 10 build 1809 under Windows Subsystem for Linux (using Debian GNU/Linux 9.0)
 
 ## Resources
 
