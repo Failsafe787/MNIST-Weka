@@ -6,7 +6,7 @@ The MNIST database of handwritten digits for [Weka](https://www.cs.waikato.ac.nz
 
 |Download|Converter|License|Issues|
 |---------|---------|---------|----------|
-| [![Download Button](https://img.shields.io/badge/Version-2018--12--12-blue.svg)](https://github.com/subwave07/MNIST-Weka/releases) | [![Converter Button](https://img.shields.io/badge/Version-1.0.0-blue.svg)](https://github.com/subwave07/MNIST-Weka/blob/master/mnist_784.c) | [![License MIT Button](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/subwave07/MNIST-Weka/blob/master/LICENSE) | [![Report Problems Button](https://img.shields.io/badge/Report-Problems-red.svg)](https://github.com/subwave07/MNIST-Weka/issues)|
+| [![Download Button](https://img.shields.io/badge/Version-2018--12--12-blue.svg)](https://github.com/subwave07/MNIST-Weka/releases) | [![Converter Button](https://img.shields.io/badge/Version-1.0.0-blue.svg)](https://github.com/subwave07/MNIST-Weka/blob/master/mnist_784.c) | [![License Hybrid Button](https://img.shields.io/badge/License-Hybrid-green.svg)](https://github.com/subwave07/MNIST-Weka/blob/master/LICENSE) | [![Report Problems Button](https://img.shields.io/badge/Report-Problems-red.svg)](https://github.com/subwave07/MNIST-Weka/issues)|
 
 ## About this project
 During year 2018 I had to work on MNIST dataset using Weka. Unfortunately, the dataset was provided in a non-standard format (IDX) and required a converter in order to open it with Weka. I've looked around the web in order to find a premade converter, but the ones available on the [Weka Sourceforge page](https://sourceforge.net/projects/weka/files/datasets/MNIST/) didn't work and were updated in year 2005 (13 years ago).
