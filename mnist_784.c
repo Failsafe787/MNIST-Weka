@@ -6,6 +6,7 @@
 /* 
  * Authors: subwave07
  * Version: 1.0.0
+ * License: MIT
  * Last Revision: September 17th, 2018
  * Comment: a simple conversion tool for converting the MNIST IDX format 
  * into WEKA ARFF. Based on the Java converter found at
