@@ -4,7 +4,7 @@ The MNIST database of handwritten digits for [Weka](https://www.cs.waikato.ac.nz
 
 ![MNIST image](README.md_images/MnistExamples.png)
 
-|Download|Converter|License|Issues|
+|Dataset|Converter|License|Issues|
 |---------|---------|---------|----------|
 | [![Download Button](https://img.shields.io/badge/Version-2018--12--12-blue.svg)](https://github.com/subwave07/MNIST-Weka/releases) | [![Converter Button](https://img.shields.io/badge/Version-1.0.0-blue.svg)](https://github.com/subwave07/MNIST-Weka/blob/master/mnist_784.c) | [![License MIT/GNUv3 Button](https://img.shields.io/badge/License-MIT/GNUv3-green.svg)](https://github.com/subwave07/MNIST-Weka/blob/master/LICENSE) | [![Report Problems Button](https://img.shields.io/badge/Report-Problems-red.svg)](https://github.com/subwave07/MNIST-Weka/issues)|
 
@@ -35,6 +35,6 @@ Tested on Ubuntu 16.04 and Windows 10 build 1809 under Windows Subsystem for Lin
 
 ## Acknowledgements
 
-**PhD Yuanyuan Wei** ([aywi](https://github.com/aywi) @ github.com) for his work on a Java converter, which was used as a base for this converter
+**PhD Yuanyuan Wei** ([aywi](https://github.com/aywi)@github.com) for his work on a Java converter, which was used as a base for this converter
 
-**Josef Steppan** ([j05s](https://github.com/j05t) @ github.com) for the image at the top of this README
+**Josef Steppan** ([j05s](https://github.com/j05t)@github.com) for the image at the top of this README
