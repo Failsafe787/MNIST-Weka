@@ -10,7 +10,7 @@ The MNIST database of handwritten digits for [Weka](https://www.cs.waikato.ac.nz
 
 ## About this project
 During year 2018 I had to work on MNIST dataset using Weka. Unfortunately, the dataset was provided in a non-standard format (IDX) and required a converter in order to open it with Weka. I've looked around the web in order to find a premade converter, but the ones available on the [Weka Sourceforge page](https://sourceforge.net/projects/weka/files/datasets/MNIST/) didn't work and were updated in year 2005 (13 years ago).
-I found [a converter written in Java](https://github.com/aywi/hdr-mnist-weka/blob/master/src/hdr/mnist/weka/MNISTPreprocessing.java), but it was really slow (10 minutes of processing on a Intel Core i7 3770 - 16GB Ram), so I decided to write my own version in C. The performance improvement is massive (from 10 minutes to 6-10 seconds, depending on SDD/HDD).
+I found [a converter written in Java](https://github.com/aywi/hdr-mnist-weka/blob/master/src/hdr/mnist/weka/MNISTPreprocessing.java), but it was really slow (10 minutes of processing on a Intel Core i7 3770 - 16GB Ram), so I decided to write my own version in C. The performance improvement is massive (from 10 minutes to 6-10 seconds, depending on SSD/HDD).
 I'll provide here both the dataset and the converter, so you can choose either to build your own Weka dataset starting from the files provided on the [THE MNIST DATABASE of handwritten digits](http://yann.lecun.com/exdb/mnist/) page or download the already converted dataset and immediately using it with Weka.
 
 ## Converter
